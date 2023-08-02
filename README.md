@@ -1,3 +1,3 @@
-# Major-Project
+# Weather Report (major project)
 This online program for weather and weather forecasts was created using HTML, CSS, JavaScript, and the Weather API. This website displays the location you search's present weather information as well as the forecast for the next six days. Delhi is the pre-selected spot. By typing the name of your location into the search window and clicking the "Search" option, you can find it. If your location is discovered, the weather information is displayed; otherwise, the weather information from the prior location is displayed on the screen. 
 You should always attempt to enter a valid and accurate location name because otherwise, an error notice will appear.
